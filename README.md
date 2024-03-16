@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://drive.google.com/file/d/1AvmuloUPDe5eYuanS1tX8keu1sz2qR15/view?usp=sharing"  />
+<img align="left" height="200" src="https://drive.google.com/file/d/1diYbC45Jyayt1onbnd_W6RedJ4e4Oav" alt="GIF" autoplay >
 
 ###
 
