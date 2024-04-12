@@ -1,3 +1,13 @@
+###
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=45&duration=3000&pause=1000&color=F48585&vCenter=true&random=false&width=750&height=60&lines=An+Android+App+Developer.;A+Content+Creator.)](https://git.io/typing-svg)
+  
+</div>
+
+###
+
 <div align="center">
 <!--   <img height="240px" width="240px" style="display: inline-block;" src="https://s9.gifyu.com/images/SUfb1.gif" alt="SUfb1.gif" autoplay> -->
   
@@ -8,12 +18,14 @@
 
 ###
 
+<p>
 
-<h1 align="center">Hi, My name is Bikash Kumar. "An Android App Developer & Content Creator"</h1>
+<h2 align="center">Hi, My name is Bikash Kumar. </h2>
 
-###
 
 <h4 align="left">Experienced Android App Developer proficient in Kotlin, with expertise in  MVVM  architecture,  Room, Coroutine, Jetpack Compose, Retrofit, XML, Figma, and  other  key  technologies.  Recognized  for  designing  and developing  user-centric  applications  that  surpass  expectations.</h4>
+  
+</p>
 
 ---
 
@@ -45,13 +57,13 @@
 <div align="center">
   
   <a href="https://github.com/bwalabikash/College-App-in-Jetpack-Compose">
-    <img src="https://s9.gifyu.com/images/SUfhw.png" alt="Project 1" style="width: 200px; height: 200px; margin-right: 10px;">
+    <img src="https://s12.gifyu.com/images/SZNai.gif" alt="Project 1" style="width: 200px; height: 200px; margin-right: 10px;">
   </a>
   <a href="https://github.com/bwalabikash/UPLuck">
-    <img src="https://s9.gifyu.com/images/SUf7B.png" alt="Project 2" style="width: 200px; height: 200px; margin-right: 10px;">
+    <img src="https://s9.gifyu.com/images/SZNa4.gif" alt="Project 2" style="width: 200px; height: 200px; margin-right: 10px;">
   </a>
   <a href="https://github.com/bwalabikash/VotingBallotUnit">
-    <img src="https://s9.gifyu.com/images/SUfIG.png" alt="Project 3" style="width: 200px; height: 200px; margin-right: 10px;">
+    <img src="https://s12.gifyu.com/images/SZNaF.gif" alt="Project 3" style="width: 200px; height: 200px; margin-right: 10px;">
   </a>
   
 </div>
